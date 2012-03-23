@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle"  xmlns:dc="http://purl.org/dc/elements/1.1/">
    <channel>
       <title>Audirvana Changelog</title>
-      <link>http://audirvana.com/delivery/audirvanafree_appcast.xml</link>
+      <link>http://audirvana.googlecode.com/svn/trunk/web/appcast.xml</link>
       <description>Most recent changes of Audirvana with links to updates.</description>
       <language>en</language>
 
 <item>
 <title>Version 1.0</title>
-<sparkle:releaseNotesLink>http://audirvana.com/delivery/audirvanafree_release-notes.html#version-1.0</sparkle:releaseNotesLink>
+<sparkle:releaseNotesLink>http://audirvana.googlecode.com/svn/trunk/web/release-notes.html#version-1.0</sparkle:releaseNotesLink>
 <pubDate>Fri, 23 Mar 2012 20:57:14 +0100</pubDate>
 <enclosure
 url="http://audirvana.googlecode.com/files/Audirvana Free 1.0.zip"
