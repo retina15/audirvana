@@ -11,27 +11,13 @@
 <sparkle:releaseNotesLink>http://audirvana.com/delivery/audirvanafree_release-notes.html#version-1.0</sparkle:releaseNotesLink>
 <pubDate>Fri, 23 Mar 2012 20:57:14 +0100</pubDate>
 <enclosure
-url="http://audirvana.com/delivery/Audirvana Free 1.0.zip"
+url="http://audirvana.googlecode.com/files/Audirvana Free 1.0.zip"
 sparkle:version="1.0"
 type="application/octet-stream"
 length="3502437"
 sparkle:dsaSignature="MC0CFH/lkY3/YEm3D21/1MIZfnNFuybgAhUAoh6gOig9arUEtrQUvqHcID8T2xY="
 />
 </item>
-
-       <item>
-           <title>Version 0.9.5</title>
-           <sparkle:releaseNotesLink>http://audirvana.googlecode.com/svn/trunk/web/release-notes.html#version-0.9.5</sparkle:releaseNotesLink>
-           <pubDate>Fri, 22 Jul 2011 21:14:27 +0200</pubDate>
-           <enclosure
-           url="http://audirvana.googlecode.com/files/Audirvana 0.9.5.zip"
-           sparkle:version="0.9.5"
-           type="application/octet-stream"
-           length="5676903"
-           sparkle:dsaSignature="MCwCFCG55APk5fEPUw+6KIiMbuS019aTAhQlGaPrwjGhVbpE+6OGNYsood8Euw=="
-           />
-       </item>
-
 
    </channel>
 </rss>
