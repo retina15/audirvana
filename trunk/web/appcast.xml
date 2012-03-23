@@ -6,17 +6,17 @@
       <description>Most recent changes of Audirvana with links to updates.</description>
       <language>en</language>
 
-       <item>
-           <title>Version 1.0</title>
-           <sparkle:releaseNotesLink>http://audirvana.com/delivery/audirvanafree_release-notes.html#version-1.0</sparkle:releaseNotesLink>
-           <pubDate>Fri, 23 Mar 2012 20:57:14 +0100</pubDate>
-           <enclosure
-           url="http://audirvana.com/delivery/Audirvana Free 1.0.zip"
-           sparkle:version="1.0"
-           type="application/octet-stream"
-           length="3502437"
-           sparkle:dsaSignature="MC0CFH/lkY3/YEm3D21/1MIZfnNFuybgAhUAoh6gOig9arUEtrQUvqHcID8T2xY="
-           />
-       </item>  
+<item>
+<title>Version 1.0</title>
+<sparkle:releaseNotesLink>http://audirvana.com/delivery/audirvanafree_release-notes.html#version-1.0</sparkle:releaseNotesLink>
+<pubDate>Fri, 23 Mar 2012 21:38:30 +0100</pubDate>
+<enclosure
+url="http://audirvana.com/delivery/Audirvana 1.0.zip"
+sparkle:version="1.0"
+type="application/octet-stream"
+length="3499951"
+sparkle:dsaSignature="MCwCFCD8l+/PCdXvwPQjRYFICYDZMHH8AhRhQmPPgy3eJwREOl6QFUfvyiSaqw=="
+/>
+</item>
    </channel>
 </rss>
