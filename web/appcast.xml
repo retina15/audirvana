@@ -1,23 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle"  xmlns:dc="http://purl.org/dc/elements/1.1/">
    <channel>
-      <title>Audirvana Changelog</title>
-      <link>http://audirvana.googlecode.com/svn/trunk/web/appcast.xml</link>
+      <title>Audirvana Free Changelog</title>
+      <link>http://audirvana.com/delivery/audirvanafree_appcast.xml</link>
       <description>Most recent changes of Audirvana with links to updates.</description>
       <language>en</language>
 
-<item>
-<title>Version 1.0</title>
-<sparkle:releaseNotesLink>http://audirvana.googlecode.com/svn/trunk/web/release-notes.html#version-1.0</sparkle:releaseNotesLink>
-<pubDate>Fri, 23 Mar 2012 20:57:14 +0100</pubDate>
-<enclosure
-url="http://audirvana.googlecode.com/files/Audirvana Free 1.0.zip"
-sparkle:version="1.0"
-type="application/octet-stream"
-length="3502437"
-sparkle:dsaSignature="MC0CFH/lkY3/YEm3D21/1MIZfnNFuybgAhUAoh6gOig9arUEtrQUvqHcID8T2xY="
-/>
-</item>
-
+       <item>
+           <title>Version 1.0</title>
+           <sparkle:releaseNotesLink>http://audirvana.com/delivery/audirvanafree_release-notes.html#version-1.0</sparkle:releaseNotesLink>
+           <pubDate>Fri, 23 Mar 2012 20:57:14 +0100</pubDate>
+           <enclosure
+           url="http://audirvana.com/delivery/Audirvana Free 1.0.zip"
+           sparkle:version="1.0"
+           type="application/octet-stream"
+           length="3502437"
+           sparkle:dsaSignature="MC0CFH/lkY3/YEm3D21/1MIZfnNFuybgAhUAoh6gOig9arUEtrQUvqHcID8T2xY="
+           />
+       </item>  
    </channel>
 </rss>
