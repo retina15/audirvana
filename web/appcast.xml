@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle"  xmlns:dc="http://purl.org/dc/elements/1.1/">
    <channel>
-      <title>Audirvana Changelog</title>
-      <link>http://audirvana.googlecode.com/svn/trunk/web/appcast.xml</link>
+      <title>Audirvana Free Changelog</title>
+      <link>http://audirvana.com/delivery/audirvanafree_appcast.xml</link>
       <description>Most recent changes of Audirvana with links to updates.</description>
       <language>en</language>
 
